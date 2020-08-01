@@ -1,0 +1,19 @@
+{
+  "name": "github-public-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "dev": "parcel watch app.js"
+  },
+  "author": "Ayu Adiati",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "core-js": "^3.6.5",
+    "parcel-bundler": "^1.12.4"
+  },
+  "browserslist": [
+    "since 2017-06"
+  ]
+}
